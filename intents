@@ -1,0 +1,12 @@
+{"intents": [
+    {"tag": "greeting",
+    "pattern": ["hello","hi","wassup"],
+    "responses":["hello","hi","or bhai kia haal chaal"]
+    },
+
+
+    {"tag": "goodbye",
+    "pattern": ["chalo bye","Allah Hafiz","apna khiyal rakhna"],
+    "responses": ["bye","Allah Hafiz","goodbye"]
+        }
+]}
